@@ -1,4 +1,4 @@
-// static = keyword that defines properties  or methods that belong to a clas itself rather than the objects
+// static = keyword that defines properties  or methods that belong to a class itself rather than the objects
 //         created from that class ( class owns anthing static , not the objects)
 
 
